@@ -147,8 +147,6 @@
 
 <br>
 
-# 📜 Certifications
-
 ## 📜 Certifications
 
 - 🖥️ 정보처리기사
