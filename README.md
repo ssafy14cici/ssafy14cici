@@ -9,8 +9,6 @@
 
 <br>
 
-💸 *Can't stan on an empty wallet.*
-
 </div>
 
 <br>
