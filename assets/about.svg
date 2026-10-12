@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 210" role="img" aria-label="About Me — Frontend developer interested in intuitive design and thoughtful technology">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#eef5ff"/></linearGradient><linearGradient id="glass" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ffffff" stop-opacity=".96"/><stop offset="1" stop-color="#ffffff" stop-opacity=".44"/></linearGradient></defs>
+<rect width="1100" height="210" rx="25" fill="url(#bg)"/>
+<rect x="15" y="15" width="1070" height="180" rx="23" fill="url(#glass)" stroke="white" stroke-width="2.5"/>
+<rect x="18" y="18" width="1064" height="174" rx="21" fill="none" stroke="#bfd6ee" stroke-opacity=".55"/>
+<rect x="50" y="48" width="5" height="32" rx="2.5" fill="#8eb8eb"/>
+<text x="75" y="73" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#243c60">About Me</text>
+<text x="53" y="119" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#506987">UI/UX design meets frontend development.</text>
+<text x="53" y="150" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#7186a2">Creating intuitive experiences across web and mobile.</text>
+<rect x="745" y="63" width="105" height="34" rx="17" fill="#f3f8ff" stroke="#dce8f8"/><text x="797" y="85" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#57759b">Frontend</text>
+<rect x="859" y="63" width="91" height="34" rx="17" fill="#f3f8ff" stroke="#dce8f8"/><text x="905" y="85" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#57759b">UI/UX</text>
+<rect x="745" y="105" width="205" height="34" rx="17" fill="#f3f8ff" stroke="#dce8f8"/><text x="847" y="127" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#57759b">Web &amp; Mobile</text>
+</svg>
