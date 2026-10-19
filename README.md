@@ -6,17 +6,15 @@
 
 ## ☁️ About Me
 
-- 🎓 **SSAFY 14th** `2025.07 – 2026.06`
-- 🌊 **Digital Smart Academy Busan 3rd** `2023.09 – 2023.12`
-- 💻 Frontend & UI/UX · Web & Mobile
+디자인하고, 직접 구현하는 Frontend 개발자 **김채아**입니다.
 
 ## 💼 Experience
 
-**Intern** | Maritime Tech Startup `2026.08 – 2026.10`
-<sub>고용노동부 청년 일경험 지원사업</sub>
-
-- UI/UX Review · Manual QA
-- AI Response Validation · Documentation
+| Period | Experience |
+| :-- | :-- |
+| `2026.08 – 2026.10` | **Intern** · Maritime Tech Startup <sub>청년 일경험 지원사업</sub><br>UI/UX Review · Manual QA · AI Response Validation · Documentation |
+| `2025.07 – 2026.06` | **SSAFY 14th** |
+| `2023.09 – 2023.12` | **Digital Smart Academy Busan 3rd** |
 
 ## 🛠 Tech Stack
 
@@ -43,10 +41,6 @@
 | ADsP | 한국데이터산업진흥원 | `2026.05` |
 | SQLD | 한국데이터산업진흥원 | `2025.12` |
 | 정보처리기사 | 한국산업인력공단 | `2024.12` |
-
-## ✨ Interests
-
-![Web](https://img.shields.io/badge/Web-E0F2FE?style=flat-square) ![Mobile](https://img.shields.io/badge/Mobile-E0F2FE?style=flat-square) ![UI/UX](https://img.shields.io/badge/UI%2FUX-E0F2FE?style=flat-square) ![Data](https://img.shields.io/badge/Data-E0F2FE?style=flat-square) ![FinTech](https://img.shields.io/badge/FinTech-E0F2FE?style=flat-square) ![Healthcare](https://img.shields.io/badge/Healthcare-E0F2FE?style=flat-square)
 
 <div align="center">
 
