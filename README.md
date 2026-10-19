@@ -6,18 +6,19 @@
 
 ## ☁️ About Me
 
-- 🎓 **SSAFY 14기** 수료
-- 🎨 UI/UX 디자인부터 Frontend · Backend 개발까지 다양한 역할 경험
-- 📱 Web · Mobile · Multi-platform 프로젝트 경험
-- 📊 Backend · 데이터 분야로 관심 확장 중
+- 🎓 **SSAFY 14th** · Samsung Software Academy For Youth
+- 🌊 **Digital Smart Academy Busan 3rd**
+- 💻 Frontend & UI/UX · Web & Mobile
 
 ## 💼 Experience
 
-**Brand Design & QA Intern** · 2026.08 – 2026.10
+**IT Service Intern** | Maritime Tech Company
+`Aug 2026 – Oct 2026`
 
-- 🖌️ 브랜드 로고 디자인
-- 📝 기업 블로그 개설
-- 🔍 프로토타입 QA
+- **UI/UX Review** · Web interface & usability improvements
+- **Manual QA** · Functional testing & issue tracking
+- **AI Response Validation** · Scenario-based testing & accuracy verification
+- **Documentation** · Service manuals & UX writing
 
 ## 🛠 Tech Stack
 
