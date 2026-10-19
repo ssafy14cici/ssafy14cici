@@ -6,14 +6,14 @@
 
 ## ☁️ About Me
 
-- 🎓 **SSAFY 14th** `Jul 2025 – Jun 2026`
-- 🌊 **Digital Smart Academy Busan 3rd** `Sep 2023 – Dec 2023`
+- 🎓 **SSAFY 14th** `2025.07 – 2026.06`
+- 🌊 **Digital Smart Academy Busan 3rd** `2023.09 – 2023.12`
 - 💻 Frontend & UI/UX · Web & Mobile
 
 ## 💼 Experience
 
 **IT Service Intern** | Maritime Tech Company
-`Aug 2026 – Oct 2026`
+`2026.08 – 2026.10`
 
 - **UI/UX Review** · Web interface & usability improvements
 - **Manual QA** · Functional testing & issue tracking
@@ -33,18 +33,18 @@
 
 | Project | Domain | Role | Stack | Period |
 | :-- | :-- | :-- | :-- | :-- |
-| 🎨 **ARNNECT** | Art Community · Web | Frontend · UI/UX | React · Three.js | `Jan – Feb 2026` |
-| 💳 **ENCO** | FinTech · Mobile | Frontend · UI/UX | React Native · Zustand | `Feb – Mar 2026` |
-| 🫀 **CAREDIO** | Healthcare · Multi-platform | Backend · Auth | FastAPI · Keycloak | `Apr – May 2026` |
+| 🎨 **ARNNECT** | Art Community · Web | Frontend · UI/UX | React · Three.js | `2026.01 – 2026.02` |
+| 💳 **ENCO** | FinTech · Mobile | Frontend · UI/UX | React Native · Zustand | `2026.02 – 2026.03` |
+| 🫀 **CAREDIO** | Healthcare · Multi-platform | Backend · Auth | FastAPI · Keycloak | `2026.04 – 2026.05` |
 
 ## 📜 Certifications
 
 | Certification | Issuer | Date |
 | :-- | :-- | :-- |
-| 빅데이터분석기사 *(필기 합격)* | 한국데이터산업진흥원 | `Sep 2026` |
-| ADsP | 한국데이터산업진흥원 | `May 2026` |
-| SQLD | 한국데이터산업진흥원 | `Dec 2025` |
-| 정보처리기사 | 한국산업인력공단 | `Dec 2024` |
+| 빅데이터분석기사 *(필기 합격)* | 한국데이터산업진흥원 | `2026.09` |
+| ADsP | 한국데이터산업진흥원 | `2026.05` |
+| SQLD | 한국데이터산업진흥원 | `2025.12` |
+| 정보처리기사 | 한국산업인력공단 | `2024.12` |
 
 ## ✨ Interests
 
