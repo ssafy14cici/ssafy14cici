@@ -27,11 +27,11 @@
 
 ## 🚀 Projects
 
-| Project | Domain | Role | Stack | Period |
+| Project | Description | Role | Stack | Period |
 | :-- | :-- | :-- | :-- | :-- |
-| 🎨 **ARNNECT** | Art Community · Web | Frontend · UI/UX | React · Three.js | `2026.01 – 2026.02` |
-| 💳 **ENCO** | FinTech · Mobile | Frontend · UI/UX | React Native · Zustand | `2026.02 – 2026.03` |
-| 🫀 **CAREDIO** | Healthcare · Multi-platform | Backend · Auth | FastAPI · Keycloak | `2026.04 – 2026.05` |
+| 🎨 **ARNNECT** | 3D 전시관이 있는 예술 커뮤니티 | Frontend · UI/UX | React · Three.js | `2026.01 – 2026.02` |
+| 💳 **ENCO** | 모임비 납부·정산·출석 핀테크 앱 | Frontend · UI/UX | React Native · Zustand | `2026.02 – 2026.03` |
+| 🫀 **CAREDIO** | ECG 기반 이상징후 모니터링 | Backend · Auth | FastAPI · Keycloak | `2026.04 – 2026.05` |
 
 ## 📜 Certifications
 
