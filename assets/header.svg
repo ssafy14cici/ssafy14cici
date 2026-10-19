@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-label="Hi, I'm cici — Frontend · UI/UX · Web &amp; Mobile">
+<style>
+ svg{overflow:hidden}
+ .t{font-family:'Pretendard','Apple SD Gothic Neo','Noto Sans KR','Malgun Gothic',Arial,sans-serif}
+ .f1{animation:up 1s ease-out both}
+ .f2{animation:up 1s .4s ease-out both}
+ .f3{animation:up 1s .8s ease-out both}
+ @keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+</style>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F5FBFF"/><stop offset="1" stop-color="#DDF1FD"/></linearGradient>
+</defs>
+<rect width="1200" height="280" fill="url(#bg)"/>
+<circle cx="1060" cy="60" r="120" fill="#CDEBFC" opacity=".55"/>
+<circle cx="140" cy="250" r="90" fill="#E3F4FE" opacity=".8"/>
+<path d="M0 225 C200 190 380 260 600 228 S1000 195 1200 228 V280 H0Z" fill="#BAE6FD" opacity=".55"/>
+<path d="M0 248 C240 222 420 280 640 252 S1020 228 1200 250 V280 H0Z" fill="#A5DBF9" opacity=".6"/>
+<text class="t f1" x="600" y="105" text-anchor="middle" font-size="54" font-weight="700" fill="#4A9BC9">Hi, I'm cici 👋</text>
+<text class="t f2" x="600" y="148" text-anchor="middle" font-size="20" letter-spacing="3" fill="#7DB9DE">FRONTEND · UI/UX · WEB &amp; MOBILE</text>
+<text class="t f3" x="600" y="192" text-anchor="middle" font-size="19" fill="#5E8FB0">첫눈에 사로잡고, 오래도록 머물게 만드는 경험을 설계합니다.</text>
+</svg>
