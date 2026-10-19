@@ -4,12 +4,20 @@
 
 </div>
 
-## 🩵 About Me
+## ☁️ About Me
 
-- **SSAFY 14기** 수료
-- UI/UX 디자인부터 Frontend · Backend 개발까지 두루 맡아 왔습니다.
-- Web · Mobile · Multi-platform 프로젝트를 경험했습니다.
-- 요즘은 Backend와 데이터 분야로 관심을 넓히며 **빅데이터분석기사**를 준비하고 있습니다. (필기 합격)
+- 🎓 **SSAFY 14기** 수료
+- 🎨 UI/UX 디자인부터 Frontend · Backend 개발까지 다양한 역할 경험
+- 📱 Web · Mobile · Multi-platform 프로젝트 경험
+- 📊 Backend · 데이터 분야로 관심 확장 중
+
+## 💼 Experience
+
+**Brand Design & QA Intern** · 2026.08 – 2026.10
+
+- 🖌️ 브랜드 로고 디자인
+- 📝 기업 블로그 개설
+- 🔍 프로토타입 QA
 
 ## 🛠 Tech Stack
 
