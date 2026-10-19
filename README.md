@@ -10,7 +10,7 @@
 
 ## 💼 Experience
 
-| Period | Experience |
+| Period | Detail |
 | :-- | :-- |
 | `2026.08 – 2026.10` | **Intern** · Maritime Tech Startup <sub>청년 일경험 지원사업</sub><br>UI/UX Review · Manual QA · AI Response Validation · Documentation |
 | `2025.07 – 2026.06` | **SSAFY 14th** |
@@ -27,7 +27,7 @@
 
 ## 🚀 Projects
 
-| Project | Description | Role | Stack | Period |
+| Name | Description | Role | Stack | Period |
 | :-- | :-- | :-- | :-- | :-- |
 | 🎨 **ARNNECT** | 3D 전시관이 있는 예술 커뮤니티 | Frontend · UI/UX | React · Three.js | `2026.01 – 2026.02` |
 | 💳 **ENCO** | 모임비 납부·정산·출석 핀테크 앱 | Frontend · UI/UX | React Native · Zustand | `2026.02 – 2026.03` |
@@ -35,7 +35,7 @@
 
 ## 📜 Certifications
 
-| Certification | Issuer | Date |
+| Name | Issuer | Date |
 | :-- | :-- | :-- |
 | 빅데이터분석기사 *(필기 합격)* | 한국데이터산업진흥원 | `2026.09` |
 | ADsP | 한국데이터산업진흥원 | `2026.05` |
