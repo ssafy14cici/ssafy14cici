@@ -6,8 +6,8 @@
 
 ## ☁️ About Me
 
-- 🎓 **SSAFY 14th** · Samsung Software Academy For Youth
-- 🌊 **Digital Smart Academy Busan 3rd**
+- 🎓 **SSAFY 14th** `Jul 2025 – Jun 2026`
+- 🌊 **Digital Smart Academy Busan 3rd** `Sep 2023 – Dec 2023`
 - 💻 Frontend & UI/UX · Web & Mobile
 
 ## 💼 Experience
@@ -22,7 +22,7 @@
 
 ## 🛠 Tech Stack
 
-| 분야 | 기술 |
+| Category | Skills |
 | :-- | :-- |
 | **Frontend** | ![React](https://img.shields.io/badge/React-BAE6FD?style=flat-square&logo=react&logoColor=0284C7) ![React Native](https://img.shields.io/badge/React_Native-BAE6FD?style=flat-square&logo=react&logoColor=0284C7) ![Expo](https://img.shields.io/badge/Expo-BAE6FD?style=flat-square&logo=expo&logoColor=0284C7) ![TypeScript](https://img.shields.io/badge/TypeScript-BAE6FD?style=flat-square&logo=typescript&logoColor=0284C7) ![JavaScript](https://img.shields.io/badge/JavaScript-BAE6FD?style=flat-square&logo=javascript&logoColor=0284C7) ![Zustand](https://img.shields.io/badge/Zustand-BAE6FD?style=flat-square) |
 | **Backend** | ![Python](https://img.shields.io/badge/Python-BAE6FD?style=flat-square&logo=python&logoColor=0284C7) ![FastAPI](https://img.shields.io/badge/FastAPI-BAE6FD?style=flat-square&logo=fastapi&logoColor=0284C7) ![Keycloak](https://img.shields.io/badge/Keycloak-BAE6FD?style=flat-square&logo=keycloak&logoColor=0284C7) ![OIDC](https://img.shields.io/badge/OIDC-BAE6FD?style=flat-square&logo=openid&logoColor=0284C7) |
@@ -31,15 +31,21 @@
 
 ## 🚀 Projects
 
-| Project | 한 줄 소개 | Role | Stack | 기간 |
+| Project | Domain | Role | Stack | Period |
 | :-- | :-- | :-- | :-- | :-- |
-| 🎨 **ARNNECT** | 3D 전시관이 있는 예술 커뮤니티 | Frontend · UI/UX | React · Three.js | 2026.01 – 02 |
-| 💳 **ENCO** | 모임비 납부·정산·출석 핀테크 앱 | Frontend · UI/UX · 발표 | React Native · Zustand | 2026.02 – 03 |
-| 🫀 **CAREDIO** | ECG 기반 이상징후 모니터링 | Backend · 인증 | FastAPI · Keycloak | 2026.04 – 05 |
+| 🎨 **ARNNECT** | Art Community · Web | Frontend · UI/UX | React · Three.js | `Jan – Feb 2026` |
+| 💳 **ENCO** | FinTech · Mobile | Frontend · UI/UX | React Native · Zustand | `Feb – Mar 2026` |
+| 🫀 **CAREDIO** | Healthcare · Multi-platform | Backend · Auth | FastAPI · Keycloak | `Apr – May 2026` |
 
 ## 📜 Certifications
 
-정보처리기사 · SQLD · ADsP · GTQ 그래픽기술자격 1급 · **빅데이터분석기사 필기 합격** *(실기 준비 중)*
+| Certification | Issuer | Status |
+| :-- | :-- | :-- |
+| 정보처리기사 | 한국산업인력공단 | ✅ 취득 |
+| SQLD | 한국데이터산업진흥원 | ✅ 취득 |
+| ADsP | 한국데이터산업진흥원 | ✅ 취득 |
+| GTQ 그래픽기술자격 1급 | 한국생산성본부 | ✅ 취득 |
+| 빅데이터분석기사 | 한국데이터산업진흥원 | 📝 필기 합격 |
 
 ## ✨ Interests
 
