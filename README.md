@@ -12,13 +12,11 @@
 
 ## 💼 Experience
 
-**IT Service Intern** | Maritime Tech Company
-`2026.08 – 2026.10`
+**Intern** | Maritime Tech Startup `2026.08 – 2026.10`
+<sub>고용노동부 청년 일경험 지원사업</sub>
 
-- **UI/UX Review** · Web interface & usability improvements
-- **Manual QA** · Functional testing & issue tracking
-- **AI Response Validation** · Scenario-based testing & accuracy verification
-- **Documentation** · Service manuals & UX writing
+- UI/UX Review · Manual QA
+- AI Response Validation · Documentation
 
 ## 🛠 Tech Stack
 
